@@ -1,6 +1,6 @@
 Simple Blog Layout Using Bootstrap 5
 
-Harshini's Blog
+# Harshini's Blog
 
 A simple and responsive blog layout built using Bootstrap 5. This web page serves as a personal blog to share tutorials, tips, and insights on web development topics like HTML, CSS, and Bootstrap.
 
